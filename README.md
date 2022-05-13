@@ -1,2 +1,2 @@
 # iOSNetflixClone
-Clone of the popular streaming app Netflix.
+Clone of the popular streaming app Netflix. 
